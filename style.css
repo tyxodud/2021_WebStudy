@@ -5,3 +5,28 @@
   color: pink;
   background-color: green;
 }
+.frame {
+  width: 800px;
+  margin: 0 auto;
+  border: 1px solid #aaa;
+}
+.container {
+  overflow: hidden;
+}
+.nav {
+  float: left;
+  width: 150px;
+  background: #333;
+  color: #fff;
+  margin-right: 50px;
+}
+.nav-link {
+  display: block;
+  text-decoration: none;
+  padding: 4px 10px;
+  color: #fff;
+}
+.content {
+  float: left;
+  width: 600px;
+}
